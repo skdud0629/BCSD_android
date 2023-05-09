@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BCSD05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cnt_button">COUNT</string>
+    <string name="dialog_button">DIALOG</string>
+    <string name="random_button">RANDOM</string>
+    <string name="init_num">0</string>
+    <string name="button">BUTTON</string>
+</resources>
